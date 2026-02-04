@@ -1,0 +1,6 @@
+langgraph
+langchain-ollama
+pypdf
+pdf2image
+pytesseract
+pillow
